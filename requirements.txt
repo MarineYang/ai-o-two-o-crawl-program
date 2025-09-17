@@ -1,0 +1,7 @@
+sqlalchemy
+aiomysql
+pydantic
+playwright
+aiohttp
+aiofiles
+tomli
