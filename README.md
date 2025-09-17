@@ -42,12 +42,12 @@
 
 3. **프로그램 실행**:
    ```bash
-   run_crawler.bat "가게 이름"
+   ./run_crawler.bat "가게 이름"
    ```
 
    # 예시
    ```bash
-   run_crawler.bat "선돌막국수"
+   ./run_crawler.bat "선돌막국수"
    ```
 
    가게 이름을 인자로 제공하여 실행합니다.
